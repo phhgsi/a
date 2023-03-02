@@ -12,7 +12,7 @@ task:
       memory: 16G
 
   Clone_script:
-      - git clone --depth=1 --single-branch https://github.com/DumprX/DumprX.git
+      - git clone --depth=1 --single-branch https://github.com/ajaysinghsati/DumprX.git
   
 
 
