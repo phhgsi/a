@@ -10,7 +10,7 @@ env:
   GITLAB_INSTANCE: code.input.sh
   
   # Private SSH Key
-  PRIV_SSH_KEY: ENCRYPTED[!c3b6a190e0af5de5ce6740eaf57458753aff46c8636634b2f285937499b0109a63ed3f03d712d5707dda587b48b0fd3b!]
+  PRIV_SSH_KEY: ENCRYPTED[!2bec2ce3ea442cd219a96616f69470973e7ac2976cd51e931d2ba6b23d81f6d9f8f5ffd93af68757a5b854af97e6708b!]
 
 task:
   name: "Firmware Dump by DumprX"
